@@ -1,0 +1,9 @@
+{
+  "id": "animals",
+  "title": "Sample animals",
+  "items": [
+    {"name": "Dog", "type": "mammal"},
+    {"name": "Eagle", "type": "bird"},
+    {"name": "Shark", "type": "fish"}
+  ]
+}

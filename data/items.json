@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Solar system summary",
+    "items": [
+      {"name": "Mercury", "type": "planet"},
+      {"name": "Venus", "type": "planet"},
+      {"name": "Earth", "type": "planet"},
+      {"name": "Mars", "type": "planet"}
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Sample books",
+    "items": [
+      {"name": "The Pragmatic Programmer", "type": "book"},
+      {"name": "Clean Code", "type": "book"}
+    ]
+  }
+]

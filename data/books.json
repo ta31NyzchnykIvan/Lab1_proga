@@ -1,0 +1,9 @@
+{
+  "id": "books",
+  "title": "Sample books",
+  "items": [
+    {"name": "The Pragmatic Programmer", "type": "book"},
+    {"name": "Clean Code", "type": "book"},
+    {"name": "Introduction to Algorithms", "type": "book"}
+  ]
+}

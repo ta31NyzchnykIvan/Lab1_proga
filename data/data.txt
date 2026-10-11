@@ -1,0 +1,25 @@
+Це текстовий файл з прикладом даних для локального API.
+
+Формат: приклади об'єктів з назвами та типами.
+
+Приклад вмісту (JSON з файлу data/items.json):
+[
+  {
+	"id": 1,
+	"title": "Solar system summary",
+	"items": [
+	  {"name": "Mercury", "type": "planet"},
+	  {"name": "Venus", "type": "planet"},
+	  {"name": "Earth", "type": "planet"},
+	  {"name": "Mars", "type": "planet"}
+	]
+  },
+  {
+	"id": 2,
+	"title": "Sample books",
+	"items": [
+	  {"name": "The Pragmatic Programmer", "type": "book"},
+	  {"name": "Clean Code", "type": "book"}
+	]
+  }
+]

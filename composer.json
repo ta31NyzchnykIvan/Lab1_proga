@@ -1,0 +1,11 @@
+{
+  "name": "local/api-sample",
+  "description": "Simple local API serving JSON data from a file",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}

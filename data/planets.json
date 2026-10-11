@@ -1,0 +1,11 @@
+{
+  "id": "planets",
+  "title": "Planets of the Solar System",
+  "items": [
+    {"name": "Mercury", "type": "planet"},
+    {"name": "Venus", "type": "planet"},
+    {"name": "Earth", "type": "planet"},
+    {"name": "Mars", "type": "planet"},
+    {"name": "Jupiter", "type": "planet"}
+  ]
+}
